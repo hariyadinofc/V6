@@ -814,7 +814,7 @@ break
 
 case 'pl':
 let ui = await getBuffer('https://raw.githubusercontent.com/Arulllllllllllll/Database/master/Sounds/Musik/sound1.mp3')
-conn.sendMessage(from, { audio: ui, mimetype: 'audio/mpeg', fileName: `${command}.mp3` }, { quoted: msg })
+conn.sendMessage(from, { audio: { url: ui, mimetype: 'audio/mpeg', fileName: `${command}.mp3` }, { quoted: msg })
 break
 
 case 'anonymouscmd':
