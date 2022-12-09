@@ -1,8 +1,3 @@
-// RAPIHIN AJA BANG CAPEK WKWK
-// BTW JNGN LUPA SUBSCRIBE YT GWEH
-// NAMA YOUTUBE : LEXXY OFFICIAL
-// KALO GA BISA RAPIHIN JNGN DI EDIT NTAR ERROR
-
 let axios = require('axios')
 let BodyForm = require('form-data')
 let fetch = require('node-fetch')

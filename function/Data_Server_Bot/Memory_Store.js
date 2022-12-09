@@ -1,5 +1,3 @@
-// MAKE IN MEMORY STORE
-
 const { makeInMemoryStore } = require("@adiwajshing/baileys")
 const fs = require("fs");
 const logg = require('pino')

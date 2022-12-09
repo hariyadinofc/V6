@@ -1,7 +1,3 @@
-//GUA LEXXY SUKA SKR
-//SIMPLE KEREN RAPIH
-//CREATED BY LEXXY OFFICIAL
-
 const fs = require('fs')
 
 exports.groupResponse_Remove = async (conn, update) => {

@@ -5,13 +5,29 @@
   "sessionName": "session",
   "footer": "*2022 © ARULBOT*",
   "region": "Indonesia",
-  "restApi": {
-    "zenz": "http://zenzapis.xyz",
-    "zeeone": "https://alphabot-api.herokuapp.com"
-  },
-  "apiKey": {
-    "zenz": "91d438af27",
-    "zeeone": "JjcwrhSI"
+  "respon": "new fitur\n\n• menfess_gambar\n• polling\n• bkpsearch\n• bkpdl\n• pixif\n• doujinsearch\n• doujindl\n• ttp \n• ttp2\n• attp\n• tts_indo\n• tts_english\n• lyric\n• milf\n• husbu\n• instagram\n• facebook",
+  "button": {
+    "broadcast": {
+      "button": "Menu",
+      "respon": ".menu",
+      "footer": "© broadcast"
+    },
+    "home": {
+      "button_satu": "🎭 Menu",
+      "respon_satu": ".menu",
+      "button_dua": "Owner👤",
+      "respon_dua": ".owner"
+    },
+    "allmenu": {
+      "button_satu": "Owner",
+      "respon_satu": ".owner",
+      "button_dua": "Runtime",
+      "respon_dua": ".runtime"
+    },
+    "tes": {
+      "button": "Menu",
+      "respon": ".allmenu"
+    }
   },
   "group": {
     "judul": "𝕬𝖗𝖚𝖑 𝕭𝖔𝖙𝖟",
@@ -22,19 +38,19 @@
     "author": "WhatsApp Bot"
   },
   "buttonEmoji": {
-     "owner": "🙍‍♂️",
-     "owner2": "👤",
-     "donasi": "🎂",
-     "menu": "🎭",
-     "listMenu": "📖",
-     "truth": "⭕",
-     "dare": "😏",
-     "ajakTeman": "🔍"
+    "owner": "🙍‍♂️",
+    "owner2": "👤",
+    "donasi": "🎂",
+    "menu": "🎭",
+    "listMenu": "📖",
+    "truth": "⭕",
+    "dare": "😏",
+    "ajakTeman": "🔍"
   },
   "mediaSosial": {
-     "instagram": "https://www.instagram.com/sahrulilham_09",
-     "tiktok": "https://tiktok.com/@sabun_boy",
-     "github": "https://github.com/Arulllllllllllll",
-     "email": "zazilong0@gmail.com"
+    "instagram": "https://www.instagram.com/sahrulilham_09",
+    "tiktok": "https://tiktok.com/@sabun_boy",
+    "github": "https://github.com/Arulllllllllllll",
+    "email": "zazilong0@gmail.com"
   }
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Bot",
+  "name": "Arulbot-Md",
   "version": "0.0.0",
-  "description": "Create By Lexxy Official",
+  "description": "WhatsApp Bot Multi Device",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
-  "author": "Lexxy Official",
+  "author": "Arul",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",

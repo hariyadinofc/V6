@@ -1,8 +1,3 @@
-// RAPIHIN AJA BANG CAPEK WKWK
-// BTW JNGN LUPA SUBSCRIBE YT GWEH
-// NAMA YOUTUBE : LEXXY OFFICIAL
-// KALO GA BISA RAPIHIN JNGN DI EDIT NTAR ERROR
-
 const fs = require('fs')
 const packID = 'com.snowcorp.stickerly.android.stickercontentprovider b5e7275f-f1de-4137-961f-57becfad34f2'
 const playstore = 'https://play.google.com/store/apps/details?id=com.snowcorp.stickerly.android'
